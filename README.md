@@ -6,7 +6,9 @@ Digital tools activities for SCST1133 Data Engineering Ecosystem
 ## Student Information
 - Name: Soo JiaQuan
 - Matric Number: A26CS5027
+- Age: 19
 - Section: Section 01
+- University: Universiti Teknologi Malaysia
 
 ## Course Information
 - Course: SCST1133 Data Engineering Ecosystem
@@ -14,6 +16,8 @@ Digital tools activities for SCST1133 Data Engineering Ecosystem
 
 ## Digital Tools
 ### GitHub
+[View the repository](https://github.com/kuan-cod/scst1133-digital-tools)
+
 Things Learned<br>
 1 How to commit changes
 2 Creating branches and files in the main repository
