@@ -17,8 +17,9 @@ Digital tools activities for SCST1133 Data Engineering Ecosystem
 [View the repository](https://github.com/kuan-cod/scst1133-digital-tools)
 
 Things Learned<br>
-1 How to commit changes
-2 Creating branches and files in the main repository
+1 How to commit changes<br>
+2 Creating branches and files in the main repository<br>
+https://github.com/kuan-cod/scst1133-digital-tools
 
 ### Figma
 [View my Figma prototype](PASTE-URL-HERE)
