@@ -22,7 +22,7 @@ Things Learned<br>
 https://github.com/kuan-cod/scst1133-digital-tools
 
 ### Figma
-[View my Figma prototype](https://www.figma.com/design/6RLFE5hRn37m1qGLcDRhOM/SCST1133-Data-Pipeline-Dashnoard?node-id=0-1&t=mIDVEsYZOAjT0b96-1)
+[View my Figma prototype](https://www.figma.com/proto/6RLFE5hRn37m1qGLcDRhOM/SCST1133-Data-Pipeline-Dashnoard?node-id=1-6&p=f&t=cOXg1lMyyhy1a5yg-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ### Google Stitch
 Add your prompt and screenshot.
