@@ -37,7 +37,7 @@ Prompt 2<br>
 Create more visible borders after each part of the page<br>
 
 ### Output
-![Google Stitch Dashboard]("C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-10-14 101200.png")
+![Google Stitch Dashboard](C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot 2026-10-14 101200.png)
 
 ### Reflection
 The three strengths of Google Stitch would be effcienct, time-saving and it alsp reduces the need to code the UI(eg, HTML/CSS/Javascipt). However, the three improvements that it needs is its generating speed, more precise prompting for better result and it also can include import of pre-build UI to improve it. In my opinion, I would transfer the navigation design to my Figma project as the design contains clear instructions and icons.
